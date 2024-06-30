@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Mansion Environment
+* source:	https://sketchfab.com/3d-models/low-poly-mansion-environment-376e8f23186e4d40820d399b388b4847
+* author:	Bl4ckGh0st (https://sketchfab.com/Bl4ckGh0st)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Mansion Environment" (https://sketchfab.com/3d-models/low-poly-mansion-environment-376e8f23186e4d40820d399b388b4847) by Bl4ckGh0st (https://sketchfab.com/Bl4ckGh0st) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
